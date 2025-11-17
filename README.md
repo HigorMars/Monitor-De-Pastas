@@ -12,8 +12,11 @@ O código utiliza uma struct Arquivo para armazenar o nome e a data de modifica�
 Exemplo de saída no terminal e log:
 
 [2025-11-10 14:00:01] Monitor iniciado.
+
 [2025-11-10 14:00:06] Novo arquivo: arquivo1.txt
+
 [2025-11-10 14:00:11] Arquivo modificado: arquivo1.txt
+
 [2025-11-10 14:00:16] Arquivo removido: arquivo2.txt
 
 Autor: Higor Martins e Kauan Marchesini
